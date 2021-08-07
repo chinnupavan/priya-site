@@ -10,7 +10,7 @@ Amazing website with good UI design for new Discord bots, designed with Bootstra
 
 ## Authors
 
-[Nouridio](https://github.com/NourEldienHE)
+[Nouridio](https://github.com/Nouridio)
 
 
 ## License
